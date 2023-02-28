@@ -1,4 +1,4 @@
-# DataAnalystProject_PowerBI_SQL_SalesAnalysis
+# SalesAnalysis_DataAnalystProject_via_SQL_PowerBI
 
 ## Business Request
 The business request for this data analyst project was an executive sales report for sales managers.
